@@ -8,7 +8,7 @@ The data used for the paper can be downloaded in [here](https://drive.google.com
 The original model files are collected from Montreal Open Data.
 
 ## Model
-The model used for the paper is 3D version of [IntroVAE](https://github.com/hhb072/IntroVAE). The basic autoencoder is based on and adapted from [marian42's autoencoder]( "https://github.com/marian42/shapegan").
+The model used for the paper is 3D version of [IntroVAE](https://github.com/hhb072/IntroVAE). The basic autoencoder is based on and adapted from[marian42's autoencoder]( "https://github.com/marian42/shapegan").
 
 ## Trained Model
 The traine model files are saved in the folder named 'chckpt'.
