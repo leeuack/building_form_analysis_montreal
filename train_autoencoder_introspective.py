@@ -48,11 +48,6 @@ optimizerG = optim.Adam(autoencoder.decoder.parameters(), lr=lr_g)
 # scheduler_e = optim.lr_scheduler.StepLR(optimizerE, step_size=50, gamma=0.9198813466998584,verbose=True)
 # scheduler_g = optim.lr_scheduler.StepLR(optimizerG, step_size=50, gamma=0.9198813466998584)
 
-
-if show_viewer:
-    from rendering import MeshRenderer
-    viewer = MeshRenderer()
-
 log_file_name = "plots/IntroVAE_final_param_training_{}vox_{}comp_RENDERINGTEST.csv".format(voxel_size,amcm)
 log_file = open(log_file_name, "a" if continue_learning else "w")
 first_epoch = 0
