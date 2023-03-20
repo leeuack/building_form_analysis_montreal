@@ -1,3 +1,3 @@
-![alt text](http://url/to/img.png)
+![alt text](cluster-map_high_res.jpg)
 # building_form_analysis_montreal
 This is the repositories for a paper "An inductive method for typo-morphological analysis of building forms in urban spaces"
