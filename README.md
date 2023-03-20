@@ -1,4 +1,3 @@
-![alt text](cluster-map_high_res.jpg)
 # Building Form Analysis in Montreal
 This is the repositories for a paper "An inductive method for typo-morphological analysis of building forms in urban spaces"
 
@@ -15,3 +14,6 @@ The traine model files are saved in the folder named 'chckpt'.
 
 ### Latent Codes and Clustering
 The latent codes are stored in the folder named 'latent_codes'.
+
+
+![alt text](cluster-map_high_res.jpg)
